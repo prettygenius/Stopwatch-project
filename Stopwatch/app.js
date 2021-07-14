@@ -6,6 +6,6 @@ const counter = document.getElementById('counter');
 
 start.addEventListener('click', function(){
 
-   counter.setMilliseconds()
+   
 })
     
